@@ -1,0 +1,46 @@
+{
+    "Ukazkova_faktura_tesseract": {
+        "kaynak_dosya": "Ukazkova_faktura.png",
+        "ocr_motoru": "tesseract",
+        "tam_metin": "Helenka Vocâskovâ Faktura &. 0501001\nParmovâ 5\n\n666 00 Brno\n\ntel: 777 123456\n\n1Ğ: 735 64 427, DİĞ: CZ 8502171262\n\nFAKTURA\n\nOdböratel Datum\nJmâno © Karel Vi Vystaveni 8.9.2007\nAdresa © Za Ovölnem 568/8 Splatnosti | 22.9.2007\nPSG 63500 Mösto  Bmo -Bystre\nTelefon\nGO 63363451\nDO C27301192767\n\nKs Popis Cena/Ks Ç Cena celkem\n\nÜyivofeni VU sirânek | 3 500 ööö/ö0 KE;\n\nZpüsob platby\n\nHotovğ\n\nfel CELKEM KÜHRADE (| 2500 000,00 Kö\nfel\n\nfel NEJSEM PLÂTCE DPH\n\nG\n\nÖislo üötü | 2157339001/ 2400\n\nrazitko a podpis\n\nJako variabilni symbol uvedte prosim Gislo faktury.\n\nZimostensk list wydân Obecnim Zivnostenskjm üfadem v Geskjch Budâjovicich, 5 &j: 2-01-05-04642",
+        "cikarilan_alanlar": {
+            "tarih": "8.9.2007",
+            "tutar": "427",
+            "belge_no": "CZ 8502171262"
+        },
+        "annotated_image": "Ukazkova_faktura_tesseract_annotated.png"
+    },
+    "Ukazkova_faktura_easyocr": {
+        "kaynak_dosya": "Ukazkova_faktura.png",
+        "ocr_motoru": "easyocr",
+        "tam_metin": "Helenka Vocaskova\nFaktura (.\n0501001\nParmova\n666 0o\nBrno\ntel : 777 123 456\n735 64 427\nDIĞ\nCZ 8502171262\nFAKTURA\nOdberatel\nDatum\nJmeno\nKarel\nVlk\nVystaveni\n2007\nAdresa\nZa Ovcinen\n68/8\nSplatnosti\n2007\nPSC\n635 00\nMesto\nBrno\nBystrc\nTelefon\nIcO\n63363451\nDIC\nCZ7301192767\nPopis\nCenalKs\nCena celkem\nZpusob platby\nHotove\nCELKEM K UHRADE\n2 500 000,00 Kc\nSekem\nKredit . kartou\nNEJSEM PLATCE DPH\nCislo tctu\n2157339001\n2400\nrazitko\npodpis\nJako variabilni symbol uvedte prosim cislo faktury -\nZivnostensky list vydan Obecnim (ivnostenskym uradem\nCeskych Budejovicich;\ncj-: 1-01-05-04642",
+        "cikarilan_alanlar": {
+            "tarih": "1-01-05",
+            "tutar": "427",
+            "belge_no": "CZ 8502171262"
+        },
+        "annotated_image": "Ukazkova_faktura_easyocr_annotated.png"
+    },
+    "Ukazkova_faktura_paddleocr": {
+        "kaynak_dosya": "Ukazkova_faktura.png",
+        "ocr_motoru": "paddleocr",
+        "tam_metin": "Heenka vocaskova\nFaktura c.\n0501001\nParmova 5\n666 00 Brno\ntel.: 777 123 456\nIC: 735 64 427, DIC: CZ 8502171262\nFAKTURA\nOdbératel\nDatum\nJméno\nKarel VIk\nVystaveni\n8.9.2007\nAdresa\nZa OvCinem 968/8\nSplatnosti\n22.9.2007\nPSC\n635 00\nMésto Brno -Bystrc\nTelefon\nIco\n63363451\nDIC\nCZ7301192767\nKs\nPopis\nCena/Ks\nCena celkem\nVytvofeni WWW stranek\n2 500 000,00 KC\nZpüsob platby\n0\nHotove\nCELKEM K UHRADE\n2 500 000,00 Kc\n0\nSekem\n0\nKredit. kartou\nNEJSEM PLATCE DPH\n0\nBézny ucet\nCislo úttu\n2157339001 / 2400\nrazitko a podpis\nJako variabilni symbol uvedte prosim Cislo faktury\nZivnostensky list vydän Obecnim Živnostenskym üfadem v Ceskych Budéjovicich, s &.j.: Z-01-05-04642",
+        "cikarilan_alanlar": {
+            "tarih": "8.9.2007",
+            "tutar": "456",
+            "belge_no": "CZ 8502171262"
+        },
+        "annotated_image": "Ukazkova_faktura_paddleocr_annotated.png"
+    },
+    "Ukazkova_faktura_doctr": {
+        "kaynak_dosya": "Ukazkova_faktura.png",
+        "ocr_motoru": "doctr",
+        "tam_metin": "",
+        "cikarilan_alanlar": {
+            "tarih": null,
+            "tutar": null,
+            "belge_no": null
+        },
+        "annotated_image": null
+    }
+}
