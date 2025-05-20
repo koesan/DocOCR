@@ -62,6 +62,7 @@ pip install Pillow
 pip install pytesseract
 pip install easyocr
 pip install opencv-python
+pip install google-generativeai
 
 # PaddleOCR ve bağımlılığı (PaddlePaddle CPU)
 pip install paddlepaddle # Sadece CPU için. GPU için: paddlepaddle-gpu -U
